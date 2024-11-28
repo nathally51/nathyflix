@@ -1,0 +1,19 @@
+body{
+    color:white;
+background:black;
+
+font-family: "Chakra Petch", sans-serif;
+}
+
+section{
+    background: rgb(101,56,107,1);
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+img{
+    height: 200px;
+}
